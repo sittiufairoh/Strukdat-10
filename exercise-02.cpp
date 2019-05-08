@@ -9,8 +9,6 @@ Tanggal		: 8 Mei 2019
 #include <iostream>
 using namespace std;
 
-const int maxE=5;
-
 struct QueueList{
 	char info;
 	QueueList* next;
